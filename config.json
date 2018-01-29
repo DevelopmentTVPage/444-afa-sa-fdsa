@@ -1,0 +1,15 @@
+{
+    "title": "testetestsa",
+    "baseURL": "https:\/\/afa.sa.fdsa",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758403",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "sa.fdsa"
+    }
+}
